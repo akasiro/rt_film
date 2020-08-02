@@ -1,0 +1,4 @@
+nohup: ignoring input
+the len of list: 312
+2020-07-25 23:50:16  ERROR  parse1  https://www.rottentomatoes.com/api/private/v2.0/browse?sortBy=release&type=dvd-streaming-all&page=313
+mission complete
